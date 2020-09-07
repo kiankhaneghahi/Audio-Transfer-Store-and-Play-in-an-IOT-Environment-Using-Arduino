@@ -1,4 +1,4 @@
-# Audio Transfer Store and Play in an IOT Environment Using Arduino
+# Audio Transfer, Store and Play in an IOT Environment Using Arduino
 We use an Arduino Due board to implement a system that:
 1)   Uses UART protocol to receive 10 seconds of an 8-KHz, 8-bit depth sampled audio data. 
 (Telephone line quality)
